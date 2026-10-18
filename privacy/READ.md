@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- App Icon / Logo -->
-  <img src="assets/logo.png" alt="Reisbok Logo" width="96" height="96" style="border-radius: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+ 
   
   <h1 style="color: #0A84FF; margin-top: 12px; margin-bottom: 4px;">Reisbok</h1>
   <p style="font-size: 1.1em; color: #666; margin-top: 0;">Privacy Policy</p>
